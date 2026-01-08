@@ -19,6 +19,7 @@ Initialize a new Next.js 14 project using TypeScript. Configure Tailwind CSS and
 
 - [ ] `npx create-next-app@latest` ran successfully with TS, Tailwind, App Router.
 - [ ] Shadcn/UI initialized (`npx shadcn-ui@latest init`).
+- [ ] Magic UI configured (CLI or manual installation of required components).
 - [ ] Folder structure established (`components`, `lib`, `app`, `types`).
 - [ ] Repository pushed to GitHub.
 

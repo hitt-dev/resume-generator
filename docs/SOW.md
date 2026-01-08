@@ -85,7 +85,7 @@ Development of a production-grade, SaaS-based Resume Generator that utilizes Gen
 
 - **Frontend Framework:** Next.js 14 (App Router).
 - **Language:** TypeScript (Strict mode).
-- **Styling:** Tailwind CSS + Shadcn/UI (for accessibility and speed).
+- **Styling:** Tailwind CSS + Shadcn/UI + Magic UI (for accessibility, speed, and visual effects).
 - **State Management:** MobX (react-observed based state management for complex JSON resumes).
 - **Database:** Supabase (PostgreSQL).
 - **PDF Engine:** `@react-pdf/renderer` (Client-side generation for speed and privacy).
